@@ -1,0 +1,7 @@
+Jan 21st, 2011
+
+ways to build this project
+
+1. Import into Eclipse and use the Maven Plugin to build.
+or
+2. On the commandline do "mvn compile install".
